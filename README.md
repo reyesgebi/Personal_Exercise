@@ -29,11 +29,19 @@ I am accounting 7 classification algorithm that possibly works for the clasifica
 
 ## 3. Country Clustering
 
-I am using a dataset from Kaggle. It has **167** entries of data and contains 10 columns that describe each unique customer within the dataset.
+I am using a dataset from Kaggle. It has **167** entries of data and contains 10 columns that describe each unique attributes from each country within the dataset.
 
 **Project Objective**
 
 I am using unsupervised learning and KMeans Algorithm to clusterize countries and choose destination countries which put into the top priority for an NGO's finanical assistance.
+
+## 4. Ride Hailing Price Forecasting
+
+I am using a dataset from Kaggle. It has **693.071** entries of data and contains 57 columns that describe each unique trip.
+
+**Project Objective**
+
+I am using supervised learning, linear regression algorithm to determine the ride price based on the most influencing features.
 
 ## Authors
 
